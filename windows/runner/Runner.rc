@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "battery_lab_pro" "\0"
+            VALUE "FileDescription", "lab_calculator" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "battery_lab_pro" "\0"
+            VALUE "InternalName", "lab_calculator" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "battery_lab_pro.exe" "\0"
-            VALUE "ProductName", "battery_lab_pro" "\0"
+            VALUE "OriginalFilename", "lab_calculator.exe" "\0"
+            VALUE "ProductName", "lab_calculator" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

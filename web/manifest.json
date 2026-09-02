@@ -1,6 +1,6 @@
 {
-    "name": "battery_lab_pro",
-    "short_name": "battery_lab_pro",
+    "name": "lab_calculator",
+    "short_name": "lab_calculator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
